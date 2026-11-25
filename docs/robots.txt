@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://susantayl-notes74.github.io/ola-s1-mods-hyper-scooter-unlock/sitemap.xml

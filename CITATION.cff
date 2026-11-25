@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software or configuration suite, please cite it as below."
+type: software
+title: "Ola S1 Pro MoveOS 5 Hyper Mode Unlocker & CAN Telemetry Suite"
+abstract: "Ola S1 Pro MoveOS 5 Hyper Mode Unlocker & CAN Telemetry Suite [2026] — User-mode Windows x64 overlay suite featuring 3D bounding boxes."
+authors:
+  - alias: "susantayl-notes74"
+    name: "susantayl-notes74"
+version: "1.1.3"
+date-released: "2026-11-25"
+license: MIT
+repository-code: "https://github.com/susantayl-notes74/ola-s1-mods-hyper-scooter-unlock"
+url: "https://susantayl-notes74.github.io/ola-s1-mods-hyper-scooter-unlock/"

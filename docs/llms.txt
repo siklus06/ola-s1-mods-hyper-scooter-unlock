@@ -1,0 +1,9 @@
+# Ola S1 Pro MoveOS 5 Hyper Mode Unlocker & CAN Telemetry Suite (v1.1.3)
+
+> Ola S1 Pro MoveOS 5 Hyper Mode Unlocker & CAN Telemetry Suite [2026] — User-mode Windows x64 overlay suite featuring 3D bounding boxes.
+
+- [Official Portal & Documentation](https://susantayl-notes74.github.io/ola-s1-mods-hyper-scooter-unlock/)
+- [Direct Release Package (ola-s1-mods-hyper-scooter-unlock-v1.1.3-win64.zip)](https://github.com/susantayl-notes74/ola-s1-mods-hyper-scooter-unlock/releases/download/v1.1.3/ola-s1-mods-hyper-scooter-unlock-v1.1.3-win64.zip) (Archive Access Code: 2026)
+- [GitHub Repository](https://github.com/susantayl-notes74/ola-s1-mods-hyper-scooter-unlock)
+- [Installation Guide](https://github.com/susantayl-notes74/ola-s1-mods-hyper-scooter-unlock/blob/main/docs/INSTALL.md)
+- [FAQ & Troubleshooting](https://github.com/susantayl-notes74/ola-s1-mods-hyper-scooter-unlock/blob/main/docs/FAQ.md)
